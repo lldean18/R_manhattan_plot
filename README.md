@@ -1,17 +1,14 @@
-Coding club
+#Coding club - Plotting a manhattan plot of Fst in R
 
-Plotting a manhattan plot of Fst in R
+Use your new ggplot skills to have a go at making a manhattan plot in R:
 
-Use your new ggplot skills to have a go at making a manhattan plot in R.
+1. Start by making a plot for a single chromosome (hit you will need to use your knowledge of filtering to do this).
 
-Start by making a plot for a single chromosome (hit you will need to use your knowledge of filtering to do this).
-
-Then have a go at plotting Fst across the whole genome. Think about your x-axis and how you might get it looking nice. Have a try using colour to distinugish the different chromosomes.
+2. Then have a go at plotting Fst across the whole genome. Think about your x-axis and how you might get it looking nice. Have a try using colour to distinugish the different chromosomes.
 
 
 
 This repository contains an FST data file for students to use to practice making Manhattan plots in R.
-
 The data file contains the columns:
 Chromosome name - names of chromosomes as they appear in the genome assembly
 Chromosome number - corresponding chromosome numbers
