@@ -2,7 +2,7 @@
 
 ## Use your new ggplot skills to have a go at making a manhattan plot in R:
 
-1. Start by making a plot for a single chromosome (hit you will need to use your knowledge of filtering to do this).
+1. Start by making a plot for a single chromosome (hint you will need to use your knowledge of filtering to do this).
 
 2. Then have a go at plotting Fst across the whole genome. Think about your x-axis and how you might get it looking nice. Have a try using colour to distinugish the different chromosomes.
 
